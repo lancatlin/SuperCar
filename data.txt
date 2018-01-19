@@ -1,0 +1,31 @@
+#define st 0x0000000
+#define up 0xAABB123
+#define dw 0xCCDD234
+#define rt 0xEEFF345
+#define lt 0xFF00456
+#define ur 0xAAEE567
+#define ul 0xAAFF678
+#define dr 0xCCEE789
+#define dl 0xCCFF890
+#define b1 0xABCDEF1
+#define b2 0xABCDEF2
+#define b3 0xABCDEF3
+#define b4 0xABCDEF4
+
+線控對應表
+
+#define st 0
+#define up 1
+#define dw 2
+#define rt 3
+#define lt 4
+#define ur 5
+#define ul 6
+#define dr 7
+#define dl 8
+#define b1 9
+#define b2 10
+#define b3 11
+#define b4 12
+
+對應表
